@@ -230,8 +230,4 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-
-    fun doOpenTodo() {
-
-    }
 }
