@@ -28,6 +28,6 @@ Below are two videos that provide a high-level demo of how the Todo app works.
 - **Android Gradle Plugin (AGP):** 8.8.1  
 
 ## 💡 Note  
-Some files were added to the repo for you to cros-check needed configurations
+Some files were added to the repo for you to cross-check needed configurations
 
 ## Note  
