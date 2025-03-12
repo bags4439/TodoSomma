@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937700661325",
+    "project_id": "somma-14e8f",
+    "storage_bucket": "somma-14e8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937700661325:android:a17332f01e3c4e0c29a404",
+        "android_client_info": {
+          "package_name": "com.example.todosomma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPiU2-Iaal453h4-dXMLpRf4K3Hes4lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
