@@ -101,10 +101,8 @@ dependencies {
 
     testImplementation(libs.mockk)
     testImplementation(libs.kotlinx.coroutines.test)
-//    testImplementation(libs.androidx.core.testing)
     testImplementation(libs.mockito.inline)
 
-//    testImplementation(libs.mockito.core)
     testImplementation(libs.byte.buddy)
     testImplementation(libs.mockito.kotlin)
 }
